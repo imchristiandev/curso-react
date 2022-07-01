@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "2671f081587e7ec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "41665a60eb704180",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/006-Renderizado condicional.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cac2fc3abf193215",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6d0a7787bc7cc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c6dc6e086bc0a10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7daee12d2ad50fe5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4e2bb2314eac254",
+    "type": "split",
+    "children": [
+      {
+        "id": "f527882b4e8866ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd8f07016cbb766",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/006-Renderizado condicional.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41665a60eb704180",
+  "lastOpenFiles": [
+    "docs/006-Renderizado condicional.md",
+    "docs/005-state.md",
+    "docs/004-propiedades.md",
+    "docs/003-componentes.md",
+    "docs/002-sintaxis-JSX.md",
+    "docs/Untitled 1.md",
+    "docs/001-create-react-app.md",
+    "README.md"
+  ]
+}
