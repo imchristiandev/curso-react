@@ -6,9 +6,9 @@ Apuntes del [curso completo de React.js](https://www.youtube.com/playlist?list=P
 
 Índice:
 
-[Create React App](https://github.com/imchristiandev/curso-react/blob/main/docs/001-create-react-app.md)
-[Sintaxis JSX](https://github.com/imchristiandev/curso-react/blob/main/docs/002-sintaxis-JSX.md)
-[Componentes](https://github.com/imchristiandev/curso-react/blob/main/docs/003-componentes.md)
-[Propiedades](https://github.com/imchristiandev/curso-react/blob/main/docs/004-propiedades.md)
-[Estado](https://github.com/imchristiandev/curso-react/blob/main/docs/005-state.md)
-[Renderizado Condicional](https://github.com/imchristiandev/curso-react/blob/main/docs/006-Renderizado%20condicional.md)
+1. [Create React App](https://github.com/imchristiandev/curso-react/blob/main/docs/001-create-react-app.md)
+2. [Sintaxis JSX](https://github.com/imchristiandev/curso-react/blob/main/docs/002-sintaxis-JSX.md)
+3. [Componentes](https://github.com/imchristiandev/curso-react/blob/main/docs/003-componentes.md)
+4. [Propiedades](https://github.com/imchristiandev/curso-react/blob/main/docs/004-propiedades.md)
+5. [Estado](https://github.com/imchristiandev/curso-react/blob/main/docs/005-state.md)
+6. [Renderizado Condicional](https://github.com/imchristiandev/curso-react/blob/main/docs/006-Renderizado%20condicional.md)
