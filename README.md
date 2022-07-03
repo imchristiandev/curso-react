@@ -12,3 +12,6 @@ Apuntes del [curso completo de React.js](https://www.youtube.com/playlist?list=P
 4. [Propiedades](https://github.com/imchristiandev/curso-react/blob/main/docs/004-propiedades.md)
 5. [Estado](https://github.com/imchristiandev/curso-react/blob/main/docs/005-state.md)
 6. [Renderizado Condicional](https://github.com/imchristiandev/curso-react/blob/main/docs/006-Renderizado%20condicional.md)
+7. [Renderizado de Elementos](https://github.com/imchristiandev/curso-react/blob/main/docs/007-renderizado-de-elementos.md)
+8. [Eventos & Binding](https://github.com/imchristiandev/curso-react/blob/main/docs/008-eventos-y-binding.md)
+9. [Eventos & Property initializers](https://github.com/imchristiandev/curso-react/blob/main/docs/009-eventos-y-property-initializers)
