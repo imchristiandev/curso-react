@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "docs/008-eventos-y-binding.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/008-eventos-y-binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "41665a60eb704180",
   "lastOpenFiles": [
-    "README.md",
-    "docs/006-Renderizado condicional.md",
+    "docs/008-eventos-y-binding.md",
+    "docs/007-renderizado-de-elementos.md",
+    "Pasted image 20220628061759.png",
     "docs/005-state.md",
     "docs/004-propiedades.md",
     "docs/003-componentes.md",
     "docs/002-sintaxis-JSX.md",
-    "docs/Untitled 1.md",
-    "docs/001-create-react-app.md"
+    "docs/001-create-react-app.md",
+    "README.md",
+    "docs/006-Renderizado condicional.md"
   ]
 }
