@@ -1,2 +1,2 @@
 # Eventos y property initializers
-Vino desde las [características de es7](https://reactjs.org/blog/2015/01/27/react-v0.13.0-beta-1.html#es7-property-initializers) que permite la modificación de la base con el método tick()
+Vino desde las [características de es7](https://reactjs.org/blog/2015/01/27/react-v0.13.0-beta-1.html#es7-property-initializers) que permite la creación de los eventos mediante arrow functions sin necesidad de aplicar binding.
